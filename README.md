@@ -1,4 +1,4 @@
-# README
+# TommyTachasTheme
 
 A Chachi Theme.
 

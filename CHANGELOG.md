@@ -1,5 +1,8 @@
 # Change Log
 
+#### v0.1.4
+- Fixed images paths.
+
 #### v0.1.3
 - Added logo and sample image.
 
