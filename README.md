@@ -2,4 +2,4 @@
 
 A Chachi Theme.
 
-![Sample](./images/sample.png)
+![Sample](images/sample.png)
