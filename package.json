@@ -1,9 +1,9 @@
 {
 	"name": "TommyTachas",
     "repository": "https://github.com/tomaso909/TommyTachasTheme",
-	"displayName": "TommyTachas Theme",
-	"description": "A Chachi Theme for Python",
-	"version": "0.1.5",
+	"displayName": "TommyTachasTheme",
+	"description": "A Chachi Theme",
+	"version": "0.1.6",
 	"publisher": "TommyTachas",
 	"icon":"images/black_rainbow.jpg",
 	"engines": {

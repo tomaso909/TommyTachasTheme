@@ -1,5 +1,9 @@
 # Change Log
 
+#### v0.1.6
+- Modified display name.
+- Modified slogan.
+
 #### v.0.1.5
 - Modified sample image.
 
