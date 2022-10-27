@@ -4,6 +4,7 @@
 
 ### Important modifications (add to user settings):
 
+```
 "editor.tokenColorCustomizations": {
     "[TommyTachas]": {
         "textMateRules": [
@@ -70,3 +71,4 @@
             }
         ]    
     }
+```
