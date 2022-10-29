@@ -1,6 +1,6 @@
 # TommyTachasTheme
 
-![Sample](images/sample.jpg)
+![Sample](images/sample.png)
 
 ### Important modifications (add to user settings):
 
