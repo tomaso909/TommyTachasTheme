@@ -71,4 +71,9 @@
             }
         ]    
     }
+},
+"workbench.colorCustomizations": {
+    "editorIndentGuide.activeBackground": "#ff00ff",
+    "editorIndentGuide.background": "#ff00ff6d"
+}
 ```
